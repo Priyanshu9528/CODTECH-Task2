@@ -14,6 +14,31 @@ This project aims to perform customer segmentation using the K-Means clustering 
 
 The analysis is conducted on the **Mall Customers Dataset**, which contains demographic information like age, annual income, and spending scores of mall customers.
 
+
+
+## Output Visualizations
+### Age, Annual Income, and Spending Score Distributions
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig1.png)
+### Gender 
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig2.png)
+
+### Age, Annual Income, and Spending Score Distributions 
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig3.png)
+
+### Number of Customers and Age
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig4.png)
+
+### Annual Income and Spending Score
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig5.png)
+
+### Clusters of Customers
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig6.png)
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig7.png)
+
+
+### 3D Projection  B/w Spending Score and Annual Income
+![](https://github.com/Priyanshu9528/CODTECH-Task2/blob/main/output%20images/fig8.png)
+
 ## Dataset
 The dataset used in this project is `Mall_Customers.csv`, which includes the following columns:
 - **CustomerID**: Unique identifier for each customer
